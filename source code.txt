@@ -1,0 +1,37 @@
+Home » Creating Simplify Calculator in Visual Basic Windows Form Application
+Creating Simplify Calculator in Visual Basic Windows Form Application
+February 26, 2018 by Umesh Rana 20 Comments
+
+Hello readers, Today I will explain to you how to create a simplify calculator in Visual Basic.Net. It can be easily learned and used by a beginner, as well as advanced programmers. We will create a very basic calculator using Windows Form application. Generally, we know that a calculator is used to make the calculation of the numeric values. Every calculator has the basic operations like Addition, Subtraction, Multiplication, and Division. In visual basic windows form application, we can create the GUI application very easily. So, the creation of a calculator is not a difficult task if we have the tools available. Earlier, we already have seen the database operation with the Windows Form application. For storing the data using the front end application, we used the SQL Server Database as well as MS Access Database.
+
+If you haven’t seen the previous tutorial then don’t worry you can go to the given link below.
+
+Login Form in VB.Net Using SQL Server Database
+
+Displaying Database Record in DataGridView in VB.Net
+
+Now, let’s move to the steps of creating the simplify calculator program.
+
+Contents [hide]
+
+1 Creating Simplify Calculator Program
+1.1 Creating a New Project
+1.2 Configuration of the Windows Form
+2 Simplify Calculator Design in VB.Net
+2.1 Code for Simplify Calculator Program
+2.2 Explanation of the Program Code
+2.2.1 Number Button Code Explanation
+2.3 Result of the Simplify Calculator Program
+2.4 Conclusion
+2.5 Share this:
+2.6 Like this:
+2.7 Related
+Creating Simplify Calculator Program
+For creating a calculator in VB.Net we will use the Visual Studio IDE. It is very simple and easy to use. Let’s start with creating a new project in Visual Studio.
+Creating a New Project
+Open the Visual Studio IDE whatever version you have installed on your system.
+Choose the Visual Basic templates.
+Select the .Net Framework. (Choose the minimum so that the application can run on every Windows OS).
+Select the Windows Form Application.
+Give the project name and the location. In my case, I’ve saved it with the name Calculator.
+Then click on OK button.

@@ -1,0 +1,8 @@
+
+Creating a New Project
+Open the Visual Studio IDE whatever version you have installed on your system.
+Choose the Visual Basic templates.
+Select the .Net Framework. (Choose the minimum so that the application can run on every Windows OS).
+Select the Windows Form Application.
+Give the project name and the location. In my case, I’ve saved it with the name Calculator.
+Then click on OK button.
